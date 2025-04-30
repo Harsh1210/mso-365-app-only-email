@@ -1,0 +1,1 @@
+# mso-365-app-only-email
