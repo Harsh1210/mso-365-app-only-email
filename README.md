@@ -9,11 +9,13 @@ The script ensures that only **approved sender addresses** (as defined in AWS) c
 ---
 
 ## 📁 Folder Structure
+```bash
 project-root/
 ├── email_sender.py
 ├── .env
 ├── .gitignore
 └── README.md
+```
 ---
 
 ## 🧪 Prerequisites
